@@ -1,4 +1,4 @@
-package ghmod
+package ghmods
 
 import (
 	"bytes"
