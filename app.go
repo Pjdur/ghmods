@@ -20,7 +20,7 @@ type ChatResponse struct {
 }
 
 func Chat(token string, model string, messages []Message) (Message, error) {
-	url := "https://models.github.ai"
+	url := "https://models.github.ai/inference/chat/completions"
 	
 	payload, err := json.Marshal(map[string]interface{}{
 		"model":    model,
