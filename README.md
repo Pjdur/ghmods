@@ -47,7 +47,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/Pjdur/ghmods"
+	"github.com/Pjdur/ghmods/v2"
 )
 
 func main() {
