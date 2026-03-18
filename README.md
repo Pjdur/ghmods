@@ -19,7 +19,7 @@
 Add it to your Go project:
 
 ```bash
-go get github.com/Pjdur/ghmods
+go get github.com/Pjdur/ghmods/v2
 ```
 
 ### 2. Authenticate
